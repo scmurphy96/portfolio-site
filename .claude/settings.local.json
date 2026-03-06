@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx sv:*)",
+      "Read(//private/tmp/**)",
+      "Bash(cp -r /tmp/seanportfolio/* /tmp/seanportfolio/.* /Users/seanmurphy/portfolio/)",
+      "Bash(npm:*)",
+      "Bash(cp:*)",
+      "Bash(npx:*)"
+    ]
+  }
+}
