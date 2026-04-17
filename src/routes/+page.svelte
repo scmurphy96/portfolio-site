@@ -12,7 +12,7 @@
 		},
 		{
 			label: 'Resume',
-			url: 'https://drive.google.com/file/d/1O6o_gN4SQeO-OrHYdyy2U0aPSxUo4_tq/view?usp=sharing',
+			url: 'https://drive.google.com/file/d/1yF8VnQMseS-ouTDfFf8kYxUbLSBlBB4r/view?usp=sharing',
 			icon: 'file'
 		}
 	];
@@ -29,7 +29,7 @@
 		</div>
 
 		<h1>Sean Murphy</h1>
-		<p class="tagline">Software Engineer</p>
+		<p class="tagline">Software Engineer @ Capital One</p>
 
 		<nav class="links">
 			{#each links as link}
@@ -58,10 +58,11 @@
 	<section class="about">
 		<h2>About Me</h2>
 		<p>
-			I'm a software engineer passionate about building clean, performant, and user-friendly
-			applications. I enjoy working across the full stack, from crafting intuitive interfaces to
-			designing robust backend systems. I'm always looking to learn new technologies and take on
-			challenging problems that push me to grow as a developer.
+			Software Engineer with 4+ years of experience designing, building, and scaling full-stack
+			applications and platform infrastructure. Proven track record of leading cross-functional
+			integrations, mentoring engineers, and delivering systems used by tens of thousands of users.
+			Experienced across the stack in TypeScript/Javascript, Python, Go, Java, and modern
+			cloud-native architectures.
 		</p>
 	</section>
 
